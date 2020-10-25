@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/19 08:41:24.000.275,=C:\Users\Home-Mv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/19 09:33:41.000.601,=C:\Users\Home-Mv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/16 16:18:58.000.459,=C:\Users\Home-Mv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 10:04:25.000.358,=C:\Users\Home-Mv\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 10:10:27.000.556,C:\Users\Home-Mv\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\WK_Teste\uPedido.dfm</Transaction>
+    <Transaction>2020/10/24 10:10:27.000.556,C:\Users\Home-Mv\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\WK_Teste\uPedido.pas</Transaction>
+    <Transaction>2020/10/24 10:10:34.000.880,C:\Users\Home-Mv\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\WK_Teste\wk_teste.dproj</Transaction>
+    <Transaction>2020/10/24 16:43:03.000.849,=C:\WK_Teste\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 16:44:05.000.445,C:\WK_Teste\udm.pas=C:\WK_Teste\Unit1.pas</Transaction>
+    <Transaction>2020/10/24 16:44:05.000.445,C:\WK_Teste\udm.dfm=C:\WK_Teste\Unit1.dfm</Transaction>
+    <Transaction>2020/10/24 16:49:45.000.774,=C:\WK_Teste\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
